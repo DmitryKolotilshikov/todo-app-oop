@@ -1,2 +1,3 @@
 # TODO application in OOP style
-## TODO приложение в ООП стиле
+
+![image](todo_app_preview.png)
